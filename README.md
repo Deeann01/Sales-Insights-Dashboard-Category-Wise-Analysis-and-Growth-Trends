@@ -17,7 +17,7 @@ The **Sales Insights Dashboard** is a comprehensive project aimed at analyzing a
 
 ### Technology Stack
 - **Programming Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib
+- **Libraries**: Pandas
 - **Database**: SQL Server
 - **Visualization Tool**: Power BI
 - **Other Tools**: Jupyter Notebook, Kaggle Datasets
